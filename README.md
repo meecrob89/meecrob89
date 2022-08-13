@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meecrob89
 - 👀 I’m interested in development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on skyba89@gmail.com
 
 <!---
